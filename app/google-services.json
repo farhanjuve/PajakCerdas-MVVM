@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "322871561880",
+    "firebase_url": "https://pajakcerdas-16c23.firebaseio.com",
+    "project_id": "pajakcerdas-16c23",
+    "storage_bucket": "pajakcerdas-16c23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322871561880:android:cea55e8bd762bd50",
+        "android_client_info": {
+          "package_name": "com.example.ryzen.pajakcerdas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322871561880-2tl3om4odstd4e9l4h1tgl734ilmm68k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ryzen.pajakcerdas",
+            "certificate_hash": "24b85eb741366f4c07888d47259a155e6cc74966"
+          }
+        },
+        {
+          "client_id": "322871561880-c4g2d7j0n2qb99p3274u5uh08sg2dvnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzcv4YZw7nCTpu-82xyhdkMdJwM6A3-B0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322871561880-c4g2d7j0n2qb99p3274u5uh08sg2dvnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

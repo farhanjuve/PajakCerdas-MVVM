@@ -1,0 +1,4 @@
+#Wed Apr 24 22:52:37 ICT 2019
+base.0=C\:\\PajakCerdas\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

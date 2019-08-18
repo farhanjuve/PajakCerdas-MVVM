@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">PajakCerdas</string>
+    <string name="title_activity_lokasi">Map</string>
+    <string-array name="zona_tanah">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="jenis_tanah">
+        <item>Kosong</item>
+        <item>Tanah dan Bangunan</item>
+        <item>Fasum</item>
+    </string-array>
+    <string-array name="jml_lantai">
+        <item>1</item>
+        <item>1-2</item>
+        <item>3 atau lebih</item>
+    </string-array>
+    <string-array name="sistem_me">
+        <item>Standar</item>
+        <item>Lengkap</item>
+        <item>Mewah</item>
+    </string-array>
+    <string-array name="sistem_pagar">
+        <item>Ada</item>
+        <item>Tidak</item>
+    </string-array>
+    <string-array name="sistem_tampak">
+        <item>Simple</item>
+        <item>Cukup</item>
+        <item>Mewah</item>
+    </string-array>
+    <string-array name="jalan_lingkungan">
+        <item>Tanah</item>
+        <item>Paving</item>
+        <item>Aspal</item>
+    </string-array>
+    <string-array name="kelas_bangunan">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="jenis_konstruksi">
+        <item>Standar</item>
+        <item>Mutu Tinggi</item>
+    </string-array>
+    <string-array name="bahan_konstruksi">
+        <item>Standar</item>
+        <item>Bagus</item>
+    </string-array>
+    <string-array name="garasi">
+        <item>Ada</item>
+        <item>Tidak</item>
+    </string-array>
+    <string-array name="carport">
+        <item>Ada</item>
+        <item>Tidak</item>
+    </string-array>
+    <string-array name="taman">
+        <item>Ada</item>
+        <item>Tidak</item>
+    </string-array>
+    <string-array name="nilai_bangunan">
+        <item>Kecil</item>
+        <item>Sedang</item>
+        <item>Mewah</item>
+    </string-array>
+    <string-array name="jenis_bangunan">
+        <item>Perumahan</item>
+        <item>Kantor/tempat usaha</item>
+        <item>Pabrik</item>
+        <item>Toko/Apotik/Rumah sakit/Klinik</item>
+        <item>Gudang</item>
+        <item>Gedung Pemerintahan</item>
+        <item>Apartemen</item>
+        <item>Bangunan parkir</item>
+        <item>Gedung sekolah</item>
+        <item>Pompa bensin</item>
+        <item>Tangki Minyak</item>
+    </string-array>
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="toggle_turn_on">NN:On</string>
+    <string name="toggle_turn_off">NN:Off</string>
+    <string name="toggle">Use NNAPI</string>
+</resources>
